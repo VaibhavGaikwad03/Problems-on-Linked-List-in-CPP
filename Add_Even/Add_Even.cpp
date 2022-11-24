@@ -59,7 +59,8 @@ int Solution::addEven()     //to add even numbers from linked list (Logic)
         }
         temp = temp->next;
     }
-
+    delete []p;   
+    
     return iSum;
 }
 
