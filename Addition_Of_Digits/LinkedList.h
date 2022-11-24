@@ -10,7 +10,7 @@ struct node
 typedef struct node NODE;
 typedef struct node* PNODE;
 
-class LinkedList 
+class LinkedList
 {
     public:
         PNODE Head;
