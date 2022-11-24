@@ -4,7 +4,7 @@ Write a program which accepts input from user in Linked List and return addition
 
 Input Linked List : |11|->|20|->|32|->|41|->|59|
 Output : 52
-
+ 
 */
 
 #include<iostream>
