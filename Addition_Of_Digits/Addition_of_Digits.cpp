@@ -1,6 +1,6 @@
 /*
 Write a program which accepts input from the user in linked list and display addition of each elements
-
+ 
 Input Linked List : |110|->|230|->|20|->|240|->|640|
 Output : 2  5  2  6  10
 
