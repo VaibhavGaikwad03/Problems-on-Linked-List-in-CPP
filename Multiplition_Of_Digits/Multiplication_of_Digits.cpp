@@ -4,7 +4,7 @@ Write a program which accepts input from the user in linked list and display mul
 
 Input linked list : |11|->|20|->|32|->|41|
 Output : 1  0  6  4
-
+ 
 */
 
 #include<iostream>
