@@ -11,7 +11,7 @@ Output : 1  0  6  4
 #include"LinkedList.h"              //userdefined header file
 using namespace std;
 
-class Solution
+class Solution 
 {
     private:
         LinkedList *p;
