@@ -11,7 +11,7 @@ typedef struct node NODE;
 typedef struct node* PNODE;
 
 class LinkedList 
-{
+{ 
     public:
         PNODE Head;
         int iCnt;
