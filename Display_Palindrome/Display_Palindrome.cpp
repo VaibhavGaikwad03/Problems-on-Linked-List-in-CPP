@@ -15,7 +15,7 @@ class Solution
 {
     private:
         LinkedList *p;
-
+ 
     public:
         Solution();
         void accept(int);
