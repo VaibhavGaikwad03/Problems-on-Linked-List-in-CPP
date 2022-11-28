@@ -63,7 +63,7 @@ void Solution::displayPrime()                 //to display prime numbers
         }
         pTemp = pTemp->next;
     }
-    
+    delete []p;
 }
 
 int main()                                              //entry point function
