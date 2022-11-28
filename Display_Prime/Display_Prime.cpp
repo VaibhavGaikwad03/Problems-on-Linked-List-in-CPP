@@ -1,5 +1,5 @@
 /*
-
+ 
 Write a program which accepts input from the user in linked list and display prime numbers
 
 Input : |11|->|20|->|17|->|41|->|22|->|89|
