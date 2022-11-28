@@ -5,7 +5,7 @@ Input : |11|->|6|->|17|->|28|
 Output : 6   28
 
 */
-
+ 
 #include<iostream>
 #include"LinkedList.h"                          //user defined header file
 using namespace std;
@@ -62,6 +62,7 @@ void Solution::displayPerfect()                 //to display perfect numbers
         }
         pTemp = pTemp->next;
     }
+    delete []p;
 }
 
 int main()                                              //entry point function
