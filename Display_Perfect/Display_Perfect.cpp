@@ -1,6 +1,6 @@
 /*
 Write a program which accepts input from the user in linked list and display perfect numbers
-
+ 
 Input : |11|->|6|->|17|->|28|
 Output : 6   28
 
