@@ -9,7 +9,7 @@ struct node
 
 typedef struct node NODE;
 typedef struct node *PNODE;
-
+ 
 class LinkedList
 {
     int iCnt;
