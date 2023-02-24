@@ -8,7 +8,7 @@ Input : 30
 Output : 3
 
 */
-
+ 
 #include<iostream>
 #include"LinkedList.h"                                              //user defined header file
 using namespace std;
