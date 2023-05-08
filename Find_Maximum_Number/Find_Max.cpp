@@ -6,7 +6,7 @@ Input : |110|->|230|->|320|->|240|
 Output : 320
 
 */
- 
+  
 #include<iostream>
 #include"LinkedList.h"                  //user defined header file
 using namespace std;
